@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerjoystick : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start is called before the first frame updat
     void Start()
     {
         
